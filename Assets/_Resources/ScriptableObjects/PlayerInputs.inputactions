@@ -1,0 +1,34 @@
+{
+    "name": "PlayerInputs",
+    "maps": [
+        {
+            "name": "PachinkoInputs",
+            "id": "8a04a21d-9900-4b61-b189-e7107980ec94",
+            "actions": [
+                {
+                    "name": "ResetBall",
+                    "type": "Button",
+                    "id": "8a03c7df-8a20-49cb-b50f-6c6a817c9e83",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "58348818-1c37-4467-9e51-65431c086106",
+                    "path": "<Keyboard>/r",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ResetBall",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
